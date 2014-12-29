@@ -1,4 +1,4 @@
-Cointerra_TerraMiner_IV_Troubleshooting_Guide
+Cointerra TerraMiner IV Troubleshooting Guide
 =============================================
 
 Owner Contributed Information
